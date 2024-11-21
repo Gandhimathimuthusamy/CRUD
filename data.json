@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Dev",
+      "email": "dev@gmail.com",
+      "age": "10",
+      "id": 1
+    },
+    {
+      "name": "Gandhi Mathi",
+      "email": "mgandhi1992@gmail.com",
+      "age": "32",
+      "id": 2
+    },
+    {
+      "name": "sanvi",
+      "email": "sanvi@gmail.com",
+      "age": "2",
+      "id": 3
+    }
+  ]
+}
